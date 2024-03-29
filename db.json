@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "files": [
+    {
+      "formObj": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "ibrar",
+    "password": "Azhar",
+    "email": "Ibrar123@gmail.com",
+    "profile": "",
+    "bannar": "",
+    "feature": ""
+  },
+  "employee": [
+    {
+      "firstName": "ibrar",
+      "lastName": "Azhar",
+      "email": "Ibrar123@gmail.com",
+      "dob": "2016-06-08T19:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "NCU",
+      "experience": "1",
+      "package": "25000",
+      "id": 1
+    },
+    {
+      "firstName": "Adnan",
+      "lastName": "Zareef",
+      "email": "Adnansatti429@gmail.com",
+      "dob": "2023-12-10T19:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "NCU",
+      "experience": "1",
+      "package": "20000",
+      "id": 2
+    },
+    {
+      "firstName": "haseeb",
+      "lastName": "Aftab",
+      "email": "haseeb2123@gmail.com",
+      "dob": "2016-06-06T19:00:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "NCU",
+      "experience": "1",
+      "package": "15000",
+      "id": 3
+    }
+  ]
+}
